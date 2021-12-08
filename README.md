@@ -24,6 +24,7 @@ I am a front-end web developer experienced in building WordPress and WooCommerce
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Version Control
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -54,6 +55,11 @@ I am a front-end web developer experienced in building WordPress and WooCommerce
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
 
+## Website
+![Website Up Down](https://img.shields.io/website-up-down-green-red/http/hmdshfq.netlify.app) [Hammad's Portfolio](https://hmdshfq.netlify.app)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmdshfq&theme=default&count_private=true&show_icons=true)
 
 <!--
 **hmdshfq/hmdshfq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
