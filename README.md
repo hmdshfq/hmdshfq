@@ -1,7 +1,7 @@
 ![Hammad](https://user-images.githubusercontent.com/19586526/145275284-e41d6ee5-9ef7-4a41-a21d-5823fda1322d.png)
 
 ### Hi there, I am Hammad 👋
-I am a front-end web developer experienced in building WordPress and WooCommerce themes. I am passionate about coding because it is a superpower that makes me able to give instructions to machines. I chose coding as my career because everyday there is something new to learn out there on the web. 
+I am a front-end web developer experienced in building responsive web design. I have worked on developing themes for WordPress and WooCommerce. I am passionate about coding because it is a superpower that makes me able to give instructions to machines. I chose coding as my career because everyday there is something new to learn out there on the web. 
 
 ## Currently Learning
 - Advanced WordPress Theme Development
