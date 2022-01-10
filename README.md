@@ -56,9 +56,6 @@ I am a front-end web developer experienced in building responsive web design. I 
 ## Website
 ![Website Up Down](https://img.shields.io/website-up-down-green-red/http/hmdshfq.netlify.app) [Hammad's Portfolio](https://hmdshfq.netlify.app)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmdshfq&theme=default&count_private=true&show_icons=true)
-
 <!--
 **hmdshfq/hmdshfq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
