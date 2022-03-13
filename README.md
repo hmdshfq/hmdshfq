@@ -2,9 +2,7 @@
 I am a front-end web developer experienced in building responsive web design. I have worked on developing themes for WordPress and WooCommerce. I am passionate about coding because it is a superpower that makes me able to give instructions to machines. I chose coding as my career because everyday there is something new to learn out there on the web. 
 
 ## Currently Learning
-- Advanced WordPress Theme Development
-- React.js
-- Advanced CSS3
+- Intermediate React.js
 
 ## Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
