@@ -1,5 +1,4 @@
-### Hi! 👋
-I am a front-end developer. I transform designs into captivating digital experiences that leave a lasting impression.
+**I transform design into a captivating digital experience that leaves a lasting impression.**
 
 [![Website Up Down](https://img.shields.io/website/https/www.hammadshafiq.com?up_message=Online&up_color=34a052&down_message=Offline&down_color=ff4500&style=for-the-badge&logo=netlify&label=Hammad%27s%20Portfolio&labelColor=e3e8e4)](https://hammadshafiq.com)
 
